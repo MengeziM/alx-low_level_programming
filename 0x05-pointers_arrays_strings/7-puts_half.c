@@ -4,7 +4,6 @@
  * puts_half - void
  *
  * @str: string
- * Return: Always 0.
  */
 
 void puts_half(char *str)
